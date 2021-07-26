@@ -72,7 +72,7 @@ while True:
 
 
 
-#HAND TRACKING MODULE (put this in the same folder as the main code)
+#HAND TRACKING MODULE (put this in the same folder as the main code with name HandTrackingModule.py)
 import cv2
 import mediapipe as mp
 import time
